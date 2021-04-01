@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T02:36:12.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="b8GhrWafvb27Jegt9XY6" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-01T13:26:27.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="lnOUr01km5lzkN3j9Us5" version="14.5.4" type="github">
   <diagram name="Page-1" id="1622d65d-c77d-c4b6-e0e7-3c11208c8684">
-    <mxGraphModel dx="2056" dy="2464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2400" dy="1534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -35,7 +35,7 @@
           <mxGeometry x="1370" y="1360" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="869962fe87da545-5" value="Information &amp;amp; Network Security" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;strokeWidth=1;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=70;strokeColor=none;verticalAlign=top;spacingTop=10;" parent="1" vertex="1">
-          <mxGeometry x="60" y="30" width="1360" height="1410" as="geometry" />
+          <mxGeometry x="60" y="30" width="1360" height="1860" as="geometry" />
         </mxCell>
         <mxCell id="869962fe87da545-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=0;notch=30;rounded=0;strokeColor=none;strokeWidth=1;fillColor=#7FB61A;fontFamily=Tahoma;fontSize=10;fontColor=#FFFFFF;gradientColor=#1B622A;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="290" y="170" width="1210" height="180" as="geometry" />
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="869962fe87da545-18" value="Additional text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=0;fontFamily=Verdana;fontSize=70;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="170" width="130" height="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="vG5H0a7DQfaEN30s5hKv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="869962fe87da545-19" target="869962fe87da545-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="869962fe87da545-19" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=150;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="320" y="170" width="200" height="180" as="geometry" />
@@ -94,11 +97,11 @@
         <mxCell id="869962fe87da545-31" value="&lt;h1&gt;Block Cipher Schemes&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;DES - Digital Encryption Standard - Broken block cipher - Primarily due to small key size&lt;/li&gt;&lt;li&gt;Triple DES&lt;/li&gt;&lt;li&gt;AES&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;align=left;" parent="1" vertex="1">
           <mxGeometry x="580" y="700" width="670" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="869962fe87da545-32" value="&lt;h1&gt;MAC (Message Authentication Code)&amp;nbsp;&lt;/h1&gt;&lt;p&gt;L&lt;span&gt;orem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;align=left;" parent="1" vertex="1">
-          <mxGeometry x="580" y="950" width="670" height="140" as="geometry" />
+        <mxCell id="869962fe87da545-32" value="&lt;h1&gt;MAC (Message Authentication Code)&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;L&lt;span&gt;orem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;align=left;" parent="1" vertex="1">
+          <mxGeometry x="580" y="950" width="790" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="869962fe87da545-33" value="&lt;h1&gt;Hashing&lt;/h1&gt;&lt;p&gt;L&lt;span&gt;orem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;align=left;" parent="1" vertex="1">
-          <mxGeometry x="580" y="1200" width="670" height="140" as="geometry" />
+        <mxCell id="869962fe87da545-33" value="&lt;h1&gt;Hashing&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;L&lt;span&gt;orem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;align=left;" parent="1" vertex="1">
+          <mxGeometry x="580" y="1200" width="770" height="140" as="geometry" />
         </mxCell>
         <mxCell id="869962fe87da545-34" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.users;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;align=left;" parent="1" vertex="1">
           <mxGeometry x="1354.9999999999995" y="210" width="92" height="100" as="geometry" />
@@ -115,11 +118,26 @@
         <mxCell id="869962fe87da545-38" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.concepts.on_premises;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;align=left;" parent="1" vertex="1">
           <mxGeometry x="1381" y="1220" width="59" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="Y8P0pAn4eX5q0k1NNHDk-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.tutorialspoint.com/cryptography/images/public_key_cryptography.jpg;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1780" width="930.43" height="577.94" as="geometry" />
+        <mxCell id="Y8P0pAn4eX5q0k1NNHDk-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.tutorialspoint.com/cryptography/images/public_key_cryptography.jpg;" parent="1" vertex="1">
+          <mxGeometry x="750" y="1800" width="930.43" height="577.94" as="geometry" />
         </mxCell>
-        <mxCell id="Y8P0pAn4eX5q0k1NNHDk-5" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Public Key Cryptography&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1550" width="300" height="110" as="geometry" />
+        <mxCell id="Y8P0pAn4eX5q0k1NNHDk-5" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Public Key Cryptography&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1790" width="320" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="vG5H0a7DQfaEN30s5hKv-1" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;strokeWidth=1;fontFamily=Tahoma;fontSize=10;fontColor=#FFFFFF;strokeColor=none;fillColor=#7FB61A;gradientColor=#1B622A;gradientDirection=west;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1460" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="vG5H0a7DQfaEN30s5hKv-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=0;notch=30;rounded=0;strokeColor=none;strokeWidth=1;fillColor=#7FB61A;fontFamily=Tahoma;fontSize=10;fontColor=#FFFFFF;gradientColor=#1B622A;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1420" width="1210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="vG5H0a7DQfaEN30s5hKv-7" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=150;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1410" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="vG5H0a7DQfaEN30s5hKv-8" value="" style="line;strokeWidth=4;direction=south;html=1;rounded=0;shadow=0;dashed=0;fillColor=none;gradientColor=#AD0002;fontFamily=Helvetica;fontSize=150;fontColor=#FFFFFF;align=right;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1420" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vG5H0a7DQfaEN30s5hKv-9" value="&lt;h1&gt;&lt;span&gt;Authentication&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;Mechanisms&lt;/b&gt;: &lt;i&gt;Password-based/One-time/Challenge/Response/Biometric Authentication&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;- Public Key-based:&amp;nbsp; (&lt;i&gt;Public Key Infrastriucture&lt;/i&gt;)&amp;nbsp; ; X.509 PKI ; KDC&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;- Secret Symmetric Key-based: (&lt;i&gt;Needham Schroeder &amp;amp; Kerberos&lt;/i&gt;)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1430" width="950" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
